@@ -31,10 +31,10 @@
 | 21   | IIC8.0-SC-021    | [Vijaya Ragav S](https://github.com/VijayaRagav07)           | CCE        |
 | 22   | IIC8.0-SC-022    | [Raghavendra Singh Jagawat](https://github.com/akiraasia)    | AID        |
 | 23   | IIC8.0-SC-023    | [Dhibiksha K M](https://github.com/)                         | EEE        |
-| 24   | IIC8.0-SC-024    | [Rohith S](https://github.com/rohith-1205)                   | CCE        | ![](https://img.shields.io/badge/Nominated-2526-gold) | STF04#2602 |
-| 25   | IIC8.0-SC-025    | [G Hrithikesh Reddy](https://github.com/hrithikesh31)        | CSE        | ![](https://img.shields.io/badge/Nominated-2526-gold) | 
-| 26   | IIC8.0-SC-026    | [Dharnesh K](https://github.com/dharnesh-8050)               | ARE        | ![](https://img.shields.io/badge/Planned-2627-purple) | STF04#2602 |
-| 27   | IIC8.0-SC-027    | [Srinidhi M](https://github.com/Srinidhi221)                 | CSE        | ![](https://img.shields.io/badge/Nominated-2526-gold) | 
+| 24   | IIC8.0-SC-024    | [Rohith S](https://github.com/rohith-1205)                   | CCE        | ![](https://img.shields.io/badge/Nominated-2526-gold) | 
+| 25   | IIC8.0-SC-025    | [G Hrithikesh Reddy](https://github.com/hrithikesh31)        | CSE        | ![](https://img.shields.io/badge/Nominated-2526-gold) | STF04#2602 |
+| 26   | IIC8.0-SC-026    | [Dharnesh K](https://github.com/dharnesh-8050)               | ARE        | ![](https://img.shields.io/badge/Planned-2627-purple) | 
+| 27   | IIC8.0-SC-027    | [Srinidhi M](https://github.com/Srinidhi221)                 | CSE        | ![](https://img.shields.io/badge/Nominated-2526-gold) | STF04#2602 |
 | 28   | IIC8.0-SC-028    | [P Harsha Vardhan Reddy](https://github.com/Harsha7235)      | CPS        | ![](https://img.shields.io/badge/Planned-2627-purple) | 
 | 29   | IIC8.0-SC-029    | [Samyuktha Ravichandran](https://github.com/SAMYUKTHARAVICHANDRAN) | CSE |
 | 30   | IIC8.0-SC-030    | [Joshika A S](https://github.com/joshuaru)                   | CSE        |
