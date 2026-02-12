@@ -1,7 +1,7 @@
 # Amrita Vishwa Vidyapeetham - Institution's Innovation Council (IIC)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AVV-IIC/Admin/refs/heads/main/Assets/logo/IIC.png" alt="IIC Logo" width=400 />
+  <img src="https://raw.githubusercontent.com/AVV-IIC/Admin/refs/heads/main/Assets/logo/IIC.png" alt="IIC Logo" width=240 />
 </p>
 
 ## Memberships - 2025 - 2026
@@ -51,3 +51,5 @@
 | 41   | IIC8.0-SC-039    | [Mohamed Navith H](https://github.com/MohamedNavith)      | DAS        |
 | 42   | IIC8.0-SC-040    | [Srisha Satish Kanna](https://github.com/)                 | AIM        | ![](https://img.shields.io/badge/Completed-2526-darkgreen) | 
 | 43   | IIC8.0-SC-041    | [Sunath Reha Sreekumar](https://github.com/Rehanair08)     | AIM        | ![](https://img.shields.io/badge/Completed-2526-darkgreen) | 
+
+###### Note: The Membership ID is generated based on the order in which the Members have joined the IIC. 
