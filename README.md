@@ -6,8 +6,8 @@
 
 ## Memberships - 2025 - 2026
 
-| S.No | Membership ID    | Name                                                         |   Department  |    Innovation Ambassador | R&D Project Team ID |
-|:----:|:----------------:|--------------------------------------------------------------|:-------------:|:------------------------:|:--------------------:|
+| S.No | Membership ID    | Name                                                         |   Department  |    Innovation Ambassador | R&D Project Team ID  |    Attendance   |
+|:----:|:----------------:|--------------------------------------------------------------|:-------------:|:------------------------:|:--------------------:|:---------------:|
 | 1    | IIC8.0-SC-001    | [Tejhashwini C B](https://github.com/TejhashwiniCB)          | CSE           |  ![](https://img.shields.io/badge/Completed-2425-darkgreen) | [STF03#2601]() | 
 | 2    | IIC8.0-SC-002    | [Sanjay S](https://github.com/Sanjay1266)                    | CSE           |  ![](https://img.shields.io/badge/Completed-2425-darkgreen) |        NA      | 
 | 3    | IIC8.0-SC-003    | [Sanjay G](https://github.com/sanjaygurusamy)                | MEE           |  ![](https://img.shields.io/badge/Completed-2425-darkgreen) | [STF03#2604]() |
@@ -54,4 +54,6 @@
 | 44   | IIC8.0-SC-042    | [Srisha Satish Kanna](https://github.com/)                   | AIM           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) | [STF04#2601]() |
 | 45   | IIC8.0-SC-043    | [Sunath Reha Sreekumar](https://github.com/Rehanair08)       | AIM           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) | [STF04#2601]() | 
 
-###### Note: The Membership ID is generated based on the order in which the Members have joined the IIC. 
+###### Note: 
+###### 1. The Membership ID is generated based on the order in which the Members have joined the IIC. 
+###### 2. The Attendance has been updated from XX-Nov-25 to 28-Feb-26
