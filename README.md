@@ -51,8 +51,8 @@
 | 41   | IIC8.0-SC-039    | [Rohith Kumar S S](https://github.com/Rohith-Kumar-SS)       | DAS           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) | [STF03#2602]() | ![](https://img.shields.io/badge/67%25-red) |
 | 42   | IIC8.0-SC-040    | [Nithish Raajan N K](https://github.com/NithishRaajan)       | DAS           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) | [STF03#2602]() | ![](https://img.shields.io/badge/78%25-darkgreen) |
 | 43   | IIC8.0-SC-041    | [Mohamed Navith H](https://github.com/MohamedNavith)         | DAS           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) | [STF03#2602]() | ![](https://img.shields.io/badge/89%25-darkgreen) |
-| 44   | IIC8.0-SC-042    | [Srisha Satish Kanna](https://github.com/)                   | AIM           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) | [STF04#2601]() | ![](https://img.shields.io/badge/100%25-red) |
-| 45   | IIC8.0-SC-043    | [Sunath Reha Sreekumar](https://github.com/Rehanair08)       | AIM           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) | [STF04#2601]() | ![](https://img.shields.io/badge/100%25-darkgreen) |
+| 44   | IIC8.0-SC-042    | [Srisha Satish Kanna](https://github.com/)                   | AIM           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) | [STF04#2601]() | ![](https://img.shields.io/badge/100%25-DAA520) |
+| 45   | IIC8.0-SC-043    | [Sunath Reha Sreekumar](https://github.com/Rehanair08)       | AIM           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) | [STF04#2601]() | ![](https://img.shields.io/badge/100%25-DAA520) |
 
 ###### Note: 
 ###### 1. The Membership ID is generated based on the order in which the Members have joined the IIC. 
