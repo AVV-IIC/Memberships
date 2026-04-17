@@ -7,7 +7,7 @@
 ## IIC8.0 Memberships 
 
 ![](https://img.shields.io/badge/Total_Members-41-purple) </br>
-![](https://img.shields.io/badge/Total_Innovation_Ambassadors-30-yellow) ![](https://img.shields.io/badge/Innovation_Ambassadors_Nominated_in_8.0-21-yellow)
+![](https://img.shields.io/badge/Total_Innovation_Ambassadors-34-yellow) ![](https://img.shields.io/badge/Innovation_Ambassadors_Nominated_in_8.0-25-yellow)
 
 | S.No | Membership ID    | Name                                                         |   Department  |    Innovation Ambassador | R&D Project Team ID  |    Attendance   |
 |:----:|:----------------:|--------------------------------------------------------------|:-------------:|:------------------------:|:--------------------:|:---------------:|
@@ -22,7 +22,7 @@
 | 9    | IIC8.0-SC-009    | [Pooja Shree S](https://github.com/)                         | CSE           |   ![](https://img.shields.io/badge/Completed-2425-darkgreen) |      NA        | ![](https://img.shields.io/badge/50%25-red) </br> ![](https://img.shields.io/badge/Discontinued-2526-red) | 
 | 10   | IIC8.0-SC-010    | [Lohitha M](https://github.com/Lohitha-1209)                 | CSE           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) | [STF04#2603]() | ![](https://img.shields.io/badge/100%25-DAA520) |
 | 11   | IIC8.0-SC-011    | [Karumuri Naga Sri Raghavendra Aditya](https://github.com/Aditya201206) |CSE |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) | [STF04#2603]() | ![](https://img.shields.io/badge/92%25-DAA520) |
-| 12   | IIC8.0-SC-012    | [Metuku Rishit Kumar](https://github.com/rishitkumar8)       | CSE           |   ![](https://img.shields.io/badge/Nominated-2526-gold)      | [STF04#2604]() | ![](https://img.shields.io/badge/92%25-DAA520) |
+| 12   | IIC8.0-SC-012    | [Metuku Rishit Kumar](https://github.com/rishitkumar8)       | CSE           |   ![](https://img.shields.io/badge/Completed-2526-darkgreen)      | [STF04#2604]() | ![](https://img.shields.io/badge/92%25-DAA520) |
 | 13   | IIC8.0-SC-013    | [S B Priyadharshika](https://github.com/priyadharshika0207)  | CSE           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) | [STF03#2603]() | ![](https://img.shields.io/badge/92%25-DAA520) |
 | 14   | IIC8.0-SC-014    | [Somisetty Veda Sai](https://github.com/SomisettyVedaSai)    | CSE           |  ![](https://img.shields.io/badge/Planned-2627-purple)      | [STF04#2605]() | ![](https://img.shields.io/badge/100%25-DAA520) |
 | 15   | IIC8.0-SC-015    | [Agastiya Jegadeesan Logambal](https://github.com/AGASTIYA07) | CSE          |   ![](https://img.shields.io/badge/Nominated-2526-gold)      |      NA        | ![](https://img.shields.io/badge/67%25-red) |
@@ -32,21 +32,21 @@
 | 19   | IIC8.0-SC-019    | [Hridaya P](https://github.com/hridusai-2604)                | MEE           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) | [STF05#2602]() | ![](https://img.shields.io/badge/75%25-darkgreen) |
 | 20   | IIC8.0-SC-020    | [A Nandana](https://github.com/nandana1702)                  | MEE           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) | [STF05#2603]() | ![](https://img.shields.io/badge/83%25-darkgreen) |
 | 21   | IIC8.0-SC-021    | [Vijaya Ragav S](https://github.com/VijayaRagav07)           | CCE           |  ![](https://img.shields.io/badge/Planned-2627-purple)      | [STF05#2602]() | ![](https://img.shields.io/badge/50%25-red) |
-| 22   | IIC8.0-SC-022    | [Raghavendra S J](https://github.com/akiraasia)              | AID           |  ![](https://img.shields.io/badge/Planned-2627-purple)      | [STF04#2605]() | ![](https://img.shields.io/badge/58%25-red) |
+| 22   | IIC8.0-SC-022    | [Raghavendra Singh Jagawat](https://github.com/akiraasia)              | AID           |  ![](https://img.shields.io/badge/Planned-2627-purple)      | [STF04#2605]() | ![](https://img.shields.io/badge/58%25-red) |
 | 23   | IIC8.0-SC-023    | [Dhibiksha K M](https://github.com/)                         | EEE           |  ![](https://img.shields.io/badge/Planned-2627-purple)      |      NA        | ![](https://img.shields.io/badge/50%25-red) |
 | 24   | IIC8.0-SC-024    | [Rohith S](https://github.com/rohith-1205)                   | CCE           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) | [STF08#2601]() | ![](https://img.shields.io/badge/67%25-darkgreen) |
 | 25   | IIC8.0-SC-025    | [G Hrithikesh Reddy](https://github.com/hrithikesh31)        | CSE           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) | [STF04#2603]() | ![](https://img.shields.io/badge/100%25-DAA520) |
 | 26   | IIC8.0-SC-026    | [Dharnesh K](https://github.com/dharnesh-8050)               | ARE           |  ![](https://img.shields.io/badge/Planned-2627-purple)      |      NA        | ![](https://img.shields.io/badge/75%25-darkgreen) |
 | 27   | IIC8.0-SC-027    | [Srinidhi M](https://github.com/Srinidhi221)                 | CSE           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) | [STF04#2603]() | ![](https://img.shields.io/badge/83%25-darkgreen) |
 | 28   | IIC8.0-SC-028    | [P Harsha Vardhan Reddy](https://github.com/Harsha7235)      | CPS           |  ![](https://img.shields.io/badge/Planned-2627-purple)      |      NA        | ![](https://img.shields.io/badge/67%25-red) |
-| 29   | IIC8.0-SC-029    | [Samyuktha Ravichandran](https://github.com/SAMYUKTHARAVICHANDRAN) | CSE     |   ![](https://img.shields.io/badge/Nominated-2526-gold)      | [STF04#2604]() | ![](https://img.shields.io/badge/92%25-DAA520) |
-| 30   | IIC8.0-SC-030    | [Joshika A S](https://github.com/joshuaru)                   | CSE           |   ![](https://img.shields.io/badge/Nominated-2526-gold)      | [STF04#2604]() | ![](https://img.shields.io/badge/92%25-DAA520) |
+| 29   | IIC8.0-SC-029    | [Samyuktha Ravichandran](https://github.com/SAMYUKTHARAVICHANDRAN) | CSE     |   ![](https://img.shields.io/badge/Completed-2526-darkgreen)      | [STF04#2604]() | ![](https://img.shields.io/badge/92%25-DAA520) |
+| 30   | IIC8.0-SC-030    | [Joshika A S](https://github.com/joshuaru)                   | CSE           |   ![](https://img.shields.io/badge/Completed-2526-darkgreen)      | [STF04#2604]() | ![](https://img.shields.io/badge/92%25-DAA520) |
 | 31   | IIC8.0-SC-031    | [B Barath Kumar](https://github.com/barathbbk06)             | CCE           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) | [STF05#2602]() | ![](https://img.shields.io/badge/92%25-DAA520) |
 | 32   | IIC8.0-SC-032    | [Thilak Sujan K S](https://github.com/ThilakSujan)           | CCE           |   ![](https://img.shields.io/badge/Nominated-2526-gold)      | [STF08#2601]() | ![](https://img.shields.io/badge/100%25-DAA520) |
 | 33   | IIC8.0-SC-033    | [Mithuraa Senthilkumar](https://github.com/mith-sen)         | CSE           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) | [STF03#2604]() | ![](https://img.shields.io/badge/42%25-brown) |
 | 34   | IIC8.0-SC-034    | [Vignesh V S](https://github.com/Vigneshvs2007)              | ECE           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) | [STF05#2601]() | ![](https://img.shields.io/badge/75%25-darkgreen) |
-| 35   | IIC8.0-SC-035    | [Nivetha K](https://github.com/)                             | EEE           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) |         NA     | NA |
-| 36   | IIC8.0-SC-036    | [Praveen Kumar D](https://github.com/)                       | CHE           |  ![](https://img.shields.io/badge/Nominated-2526-gold)      |         NA     | NA |
+| 35   | IIC8.0-SC-035    | [Nivetha G K](https://github.com/)                             | EEE           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) |         NA     | NA |
+| 36   | IIC8.0-SC-036    | [Praveen Kumar D](https://github.com/)                       | CHE           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen)      |         NA     | NA |
 | 37   | IIC8.0-SC-0XX    | [Samhita A M](https://github.com/)                           | EEE           |    NA   |   NA   | ![](https://img.shields.io/badge/Removed-2526-brown) |
 | 38   | IIC8.0-SC-0XX    | [Dasigi Prasanna Jagannath](https://github.com/)             | AID           |   NA   |   NA  | ![](https://img.shields.io/badge/Discontinued-2526-red) |
 | 39   | IIC8.0-SC-037    | [Rishit Dev O](https://github.com/Rish-2006)                 | CSE           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) | [STF08#2601]() | ![](https://img.shields.io/badge/100%25-DAA520) |
