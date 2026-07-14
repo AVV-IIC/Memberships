@@ -1,6 +1,7 @@
 # Amrita Vishwa Vidyapeetham - Institution's Innovation Council (IIC)
 
 <p align="center">
+  <img src="https://webfiles.amrita.edu/2024/07/logo-branding-amrita-universiy-2024.png" alt="Amrita Logo" width=320 /> &nbsp; &nbsp;
   <img src="https://raw.githubusercontent.com/AVV-IIC/Admin/refs/heads/main/Assets/logo/IIC.png" alt="IIC Logo" width=240 />
 </p>
 
