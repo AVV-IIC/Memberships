@@ -19,10 +19,10 @@
 | 5    | IIC8.0-SC-005    | [Garrepalli Varshith](https://github.com/)                   | CSE           |  ![](https://img.shields.io/badge/Completed-2425-darkgreen) |
 | 6    | IIC8.0-SC-010    | [Lohitha M](https://github.com/Lohitha-1209)                 | CSE           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) |
 | 7    | IIC8.0-SC-013    | [S B Priyadharshika](https://github.com/priyadharshika0207)  | CSE           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) |
-| 8   | IIC8.0-SC-015    | [Agastiya Jegadeesan Logambal](https://github.com/AGASTIYA07) | CSE          |   ![](https://img.shields.io/badge/Completed-2526-darkgreen) | 
-| 9   | IIC8.0-SC-019    | [Hridaya P](https://github.com/hridusai-2604)                | MEE           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) |
+| 8    | IIC8.0-SC-015    | [Agastiya Jegadeesan Logambal](https://github.com/AGASTIYA07) | CSE          |   ![](https://img.shields.io/badge/Completed-2526-darkgreen) | 
+| 9    | IIC8.0-SC-019    | [Hridaya P](https://github.com/hridusai-2604)                | MEE           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) |
 | 10   | IIC8.0-SC-025    | [G Hrithikesh Reddy](https://github.com/hrithikesh31)        | CSE           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) |
-| 11   | IIC8.0-SC-028    | [P Harsha Vardhan Reddy](https://github.com/Harsha7235)      | CPS           |  ![](https://img.shields.io/badge/Planned-2627-purple)    |
+| 11   | IIC8.0-SC-028    | [P Harsha Vardhan Reddy](https://github.com/Harsha7235)      | CPS           |  ![](https://img.shields.io/badge/Planned-2627-purple)      |
 | 12   | IIC8.0-SC-029    | [Samyuktha Ravichandran](https://github.com/SAMYUKTHARAVICHANDRAN) | CSE     |   ![](https://img.shields.io/badge/Completed-2526-darkgreen) |
 | 13   | IIC8.0-SC-030    | [Joshika A S](https://github.com/joshuaru)                   | CSE           |   ![](https://img.shields.io/badge/Completed-2526-darkgreen) |
 | 14   | IIC8.0-SC-031    | [B Barath Kumar](https://github.com/barathbbk06)             | CCE           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) |
@@ -33,32 +33,41 @@
 | 19   | IIC8.0-SC-041    | [Mohamed Navith H](https://github.com/MohamedNavith)         | DAS           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) |
 | 20   | IIC8.0-SC-042    | [Srisha Satish Kanna](https://github.com/)                   | AIM           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) |
 | 21   | IIC8.0-SC-043    | [Sunath Reha Sreekumar](https://github.com/Rehanair08)       | AIM           |  ![](https://img.shields.io/badge/Completed-2526-darkgreen) |
-| 22   | IIC9.0-SC-044    |  [Srinitha J]()      | DAS          |  ![](https://img.shields.io/badge/Completed-2627-darkgreen) | 
-| 23   | IIC9.0-SC-045    |  [Sarvesh J R]()     | DAS          |  ![](https://img.shields.io/badge/Completed-2627-darkgreen) | 
-| 24   | IIC9.0-SC-046    |  [Adarsh S]()    | DAS          |  ![](https://img.shields.io/badge/Completed-2627-darkgreen) |
-| 25 | IIC9.0-SC-047 | [Amirtha S]() | CYS | ![](https://img.shields.io/badge/Planned-2728-purple) |
-| 26 | IIC9.0-SC-048 | [Dhaniksha V]() | EEE | ![](https://img.shields.io/badge/Planned-2728-purple) |
-| 27 | IIC9.0-SC-049 | [Nikkil Prithvin R R]() | CCE | ![](https://img.shields.io/badge/Planned-2728-purple) |
-| 28 | IIC9.0-SC-050 | [A Ritesh]() | ELC | ![](https://img.shields.io/badge/Planned-2728-purple) |
-| 29 | IIC9.0-SC-051 | [Lakshitha Kumar V M]() | DAS | ![](https://img.shields.io/badge/Planned-2728-purple) |
-| 30 | IIC9.0-SC-052 | [Prithika P]() | DAS | ![](https://img.shields.io/badge/Planned-2728-purple) |
-| 31 | IIC9.0-SC-053 | [Nivedhya S]() | DAS | ![](https://img.shields.io/badge/Planned-2728-purple) |
-| 32 | IIC9.0-SC-054 | [Aswanth Jain C]() | CCE | ![](https://img.shields.io/badge/Planned-2728-purple) |
-| 33 | IIC9.0-SC-055 | [Sujith R J]() | AID | ![](https://img.shields.io/badge/Planned-2728-purple) |
-| 34 | IIC9.0-SC-056 | [A S K Nayanida]() | CSE | ![](https://img.shields.io/badge/Planned-2728-purple)|
-| 35 | IIC9.0-SC-057 | [Dheepika Raja]() | ELC | ![](https://img.shields.io/badge/Planned-2728-purple) |
-| 36 | IIC9.0-SC-058 | [Prajit S D]() | ELC | ![](https://img.shields.io/badge/Planned-2728-purple) |
-| 37 | IIC9.0-SC-059 | [A. Santhosh]() | ELC | ![](https://img.shields.io/badge/Planned-2728-purple) |
-| 38 | IIC9.0-SC-060 | [Sadhika M]() | DAS | ![](https://img.shields.io/badge/Planned-2728-purple) |
-| 39 | IIC9.0-SC-061 | [T S Abhijith]() | CYS | ![](https://img.shields.io/badge/Planned-2728-purple) |
-| 40 | IIC9.0-SC-062 | [Harita J]() | ELC | ![](https://img.shields.io/badge/Planned-2728-purple) |
-| 41 | IIC9.0-SC-063 | [Raghavi S N]() | MAT | ![](https://img.shields.io/badge/Planned-2728-purple) |
-| 42 | IIC9.0-SC-064 | [Trishna Sri S]() | DAS | ![](https://img.shields.io/badge/Planned-2728-purple) |
-| 43 | IIC9.0-SC-065 | [Devananda Shindey]() | DAS | ![](https://img.shields.io/badge/Planned-2728-purple) |
-| 44 | IIC9.0-SC-066 | [Selvanisha V]() | DAS | ![](https://img.shields.io/badge/Planned-2728-purple) |
-| 45 | IIC9.0-SC-067 | [Jai Nivas V]() | CCE | ![](https://img.shields.io/badge/Planned-2728-purple) |
-| 46 | IIC9.0-SC-068 | [Prem Kumar S]() | CCE | ![](https://img.shields.io/badge/Planned-2728-purple) |
-| 47 | IIC9.0-SC-069 | [Sutharsan R]() | CCE | ![](https://img.shields.io/badge/Planned-2728-purple) |
-| 48 | IIC9.0-SC-070 | [Mruthun]() | ELC | ![](https://img.shields.io/badge/Planned-2728-purple) |
-| 49 | IIC9.0-SC-071 | [Gathin P V]() | CSE | ![](https://img.shields.io/badge/Planned-2728-purple) |
-| 50 | IIC9.0-SC-072 | [Divyatha I]() | DAS | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 22   | IIC9.0-SC-044    |  [Srinitha J]()         | DAS          |  ![](https://img.shields.io/badge/Completed-2627-darkgreen) | 
+| 23   | IIC9.0-SC-045    |  [Sarvesh J R]()        | DAS          |  ![](https://img.shields.io/badge/Completed-2627-darkgreen) | 
+| 24   | IIC9.0-SC-046    |  [Adarsh S]()           | DAS          |  ![](https://img.shields.io/badge/Completed-2627-darkgreen) |
+| 25   | IIC9.0-SC-047    | [Rithanya S]()          | ARC          | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 26   | IIC9.0-SC-048    | [Amirtha S]()           | CYS          | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 27   | IIC9.0-SC-049    | [Dhaniksha V]()         | EEE          | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 28   | IIC9.0-SC-050    | [Nikkil Prithvin R R]() | CCE          | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 29   | IIC9.0-SC-051    | [A Ritesh]()            | ELC          | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 30   | IIC9.0-SC-052    | [Lakshitha Kumar V M]() | DAS          | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 31   | IIC9.0-SC-053    | [Prithika P]()          | DAS          | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 32   | IIC9.0-SC-054    | [Nivedhya S]()          | DAS          | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 33   | IIC9.0-SC-055    | [Aswanth Jain C]()      | CCE          | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 34   | IIC9.0-SC-056    | [Sujith R J]()          | AID          | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 35   | IIC9.0-SC-057    | [A S K Nayanida]()      | CSE          | ![](https://img.shields.io/badge/Planned-2728-purple)|
+| 36   | IIC9.0-SC-058    | [Dheepika Raja]()       | ELC          | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 37   | IIC9.0-SC-059    | [Prajit S D]()          | ELC          | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 38   | IIC9.0-SC-060    | [A. Santhosh]()         | ELC          | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 39   | IIC9.0-SC-061    | [Sadhika M]()           | DAS          | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 40   | IIC9.0-SC-062    | [T S Abhijith]()        | CYS          | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 41   | IIC9.0-SC-063    | [Harita J]()            | ELC          | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 42   | IIC9.0-SC-064    | [Raghavi S N]()         | MAT          | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 43   | IIC9.0-SC-065    | [Trishna Sri S]()       | DAS          | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 44   | IIC9.0-SC-066    | [Devananda Shindey]()   | DAS          | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 45   | IIC9.0-SC-067    | [Selvanisha V]()        | DAS          | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 46   | IIC9.0-SC-068    | [Jai Nivas V]()         | CCE          | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 47   | IIC9.0-SC-069    | [Prem Kumar S]()        | CCE          | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 48   | IIC9.0-SC-070    | [Sutharsan R]()         | CCE          | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 49   | IIC9.0-SC-071    | [Mruthun]()             | ELC          | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 50   | IIC9.0-SC-072    | [Gathin P V]()          | CSE          | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 51   | IIC9.0-SC-073    | [Divyatha I]()          | DAS          | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 52   | IIC9.0-SC-074    | [Aparna Sudeep]()       | ARC          | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 53   | IIC9.0-SC-075    | [Joyce Merlin Pradeepa]()      | ARC | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 54   | IIC9.0-SC-076    | [Jangala Ganesh Sri Sushant]() | ARC | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 55   | IIC9.0-SC-077    | [Shree Sahana]()               | ARC | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 56   | IIC9.0-SC-078    | [Gobitha G J]()                | ARC | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 57   | IIC9.0-SC-079    | [Aswath S]()                   | ARC | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 58   | IIC9.0-SC-080    | [R M Alagarasi]()              | ARC | ![](https://img.shields.io/badge/Planned-2728-purple) |
+| 59   | IIC9.0-SC-081    | [M Prakalya]() | ARC | ![](https://img.shields.io/badge/Planned-2728-purple) |
